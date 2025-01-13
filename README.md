@@ -1,5 +1,5 @@
-# MEAMsimulation
-Simulation of MEAM with two Stäubli robots RX160 &amp; RX160L. (MATLAB + Simulink)
+# two-robot-interaction-simulink-app
+Simulation of MEAM with two Stäubli robots RX160 &amp; RX160L force interaction. (MATLAB + Simulink)
 
 This simulation software is a combination of Simulink program that is run by an UI app coded in MATLAB App Designer.
 
